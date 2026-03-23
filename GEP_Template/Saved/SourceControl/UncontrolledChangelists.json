@@ -5,6 +5,25 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/gut/gep-25-26-unreal-template-Rookiat/GEP_Template/Content/my_inventory/widget/WB_invetory.uasset",
+				"D:/gut/gep-25-26-unreal-template-Rookiat/GEP_Template/Content/my_inventory/widget/WB_slot.uasset",
+				"D:/gut/gep-25-26-unreal-template-Rookiat/GEP_Template/Content/ThirdPerson/Blueprints/BP_InventoryComponent.uasset",
+				"D:/gut/gep-25-26-unreal-template-Rookiat/GEP_Template/Content/my_inventory/Models/Godfrey_obj.uasset",
+				"D:/gut/gep-25-26-unreal-template-Rookiat/GEP_Template/Content/my_inventory/Models/Tree_Sentinal_onj.uasset",
+				"D:/gut/gep-25-26-unreal-template-Rookiat/GEP_Template/Content/my_inventory/Models/Tree_Sentinal_img.uasset",
+				"D:/gut/gep-25-26-unreal-template-Rookiat/GEP_Template/Content/my_inventory/Models/godfrey_img.uasset",
+				"D:/gut/gep-25-26-unreal-template-Rookiat/GEP_Template/Content/my_inventory/Models/Marika_img.uasset",
+				"D:/gut/gep-25-26-unreal-template-Rookiat/GEP_Template/Content/my_inventory/Models/Marika_obj.uasset",
+				"D:/gut/gep-25-26-unreal-template-Rookiat/GEP_Template/Content/my_inventory/blueprints/BP_Item.uasset",
+				"D:/gut/gep-25-26-unreal-template-Rookiat/GEP_Template/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/gut/gep-25-26-unreal-template-Rookiat/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/G8/KRKEPL56DGDBNQFZBE7VTF.uasset",
+				"D:/gut/gep-25-26-unreal-template-Rookiat/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/N8/20KH98TWQFFRWAC1UJ7XT0.uasset",
+				"D:/gut/gep-25-26-unreal-template-Rookiat/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/I8/5LFAZ44SY6AFO9S729HMUN.uasset",
+				"D:/gut/gep-25-26-unreal-template-Rookiat/GEP_Template/Content/my_inventory/blueprints/S_ItemStruct.uasset",
+				"D:/gut/gep-25-26-unreal-template-Rookiat/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/YH/BTUOO1QNAHZ455R0WQ9RFY.uasset",
+				"D:/gut/gep-25-26-unreal-template-Rookiat/GEP_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7B/HV95Q6WWRBC2H3B4MGH6L1.uasset",
+				"D:/gut/gep-25-26-unreal-template-Rookiat/GEP_Template/Content/my+inventory.umap",
+				"D:/gut/gep-25-26-unreal-template-Rookiat/GEP_Template/Content/my_inventory/Models/Tree_Sentinal.uasset",
 				"D:/GEP-Unreal-5.4.4-Template/GEP_Template/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
